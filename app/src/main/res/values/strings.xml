@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI with Glide</string>
+    <string name="slider_range_app">Slider Range App</string>
+    <string name="download_upto_5_mb">Download upto 5 mb</string>
+    <string name="notifictaion">Notifictaion</string>
+    <string name="on">On</string>
+    <string-array name="initial">
+        <item>20</item>
+        <item>190</item>
+    </string-array>
+</resources>
